@@ -63,8 +63,8 @@ Few of the conclusions drawn from the data using the data visualization tools ca
 
 ![Slide2](https://github.com/Shreya-Gupta1/PCA_Python/assets/86680103/99f7de07-ce3e-4e93-b5fe-78839b80ee53)
 
-Conclusions drawn from the PCA Analysis are-
-Observations:
+Observations drawn from the PCA Analysis are-
+
 * The first Principal component is positively correlated with Number of Household, Total Male & Female population, Literacy & Illiteracy Numbers among M & F, Number of SC in Males & Females, Working population, etc. These variables explain the most variance in the data i.e. 56%
 
 * The Second Principal component is correlated with Marginal Cultivator Male/Female population and Marginal Agriculture (Male & Female) population etc. The Second PC explains about 14% of variation in the data.
