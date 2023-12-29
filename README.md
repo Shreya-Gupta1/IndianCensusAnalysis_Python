@@ -5,13 +5,13 @@ We have access to the Indian Census data for the year 2011 and the dataset is ri
 
 By exploring this dataset, we aim to unravel essential demographic insights, highlighting the status of females in various roles within their households and communities. This data aids in policymaking, social development, and ensuring equitable opportunities for all.
 
-# Methodology Used
+## Methodology Used
 The <b>first part </b> of this project includes the process of performing <b> Detailed Explanatory Analysis (EDA)</b> to draw meaningful conclusions with the help data visualisation techniques. 
 The code for this part can be found in the file named [EDA_IndianCensus.ipynb](/EDA_IndianCensus.ipynb)
 
-In the <b> second part, Principal Component Analysis (PCA)</b> is done on the given data by finding the components that show the most variance. This part is coded in the file [PCA_IndianCensus.ipynb] (PCA_Python/PCA_Indian Census_Shreya.ipynb)
+In the <b> second part, Principal Component Analysis (PCA)</b> is done on the given data by finding the components that show the most variance. This part is coded in the file [PCA_IndianCensus.ipynb](PCA_Python/PCA_Indian Census_Shreya.ipynb)
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The various steps involved in performing the indepth explanatory analysis include- 
 
@@ -34,7 +34,7 @@ The various steps involved in performing the indepth explanatory analysis includ
 
 Further details and results drawn from this part of the analysis can be viewed [here](/EDA_IndianCensus.ipynb)
 
-# Principal Component Analysis
+## Principal Component Analysis
 In this project, we have chosen to treat outliers in the PCA analysis for the "PCA - Primary census abstract Dataset" which consists of 57 numeric columns. The decision to treat outliers is based on several reasons:
 * Outliers can increase the error variance and reduce the power of statistical tests. If the outliers are non-randomly distributed, they can also violate the assumption of normality.
 * Most machine learning algorithms, including PCA, may not perform well in the presence of outliers. Outliers can significantly impact the results and distort the principal components.
