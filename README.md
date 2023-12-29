@@ -54,3 +54,28 @@ Steps used for this analysis include-
    4. Apply PCA for the number of decided components ot get the Loadings and compenet output
 
 To view the code file for this part click [here](https://github.com/Shreya-Gupta1/PCA_Python/blob/main/PCA_Indian%20Census_Shreya.ipynb)
+
+## Conclusion 
+
+Few of the conclusions drawn from the data using the data visualization tools can be viewed here- 
+
+![Slide1](https://github.com/Shreya-Gupta1/PCA_Python/assets/86680103/d3c960db-5fca-40fe-91c6-3259b453f017)
+
+![Slide2](https://github.com/Shreya-Gupta1/PCA_Python/assets/86680103/99f7de07-ce3e-4e93-b5fe-78839b80ee53)
+
+Conclusions drawn from the PCA Analysis are-
+Observations:
+* The first Principal component is positively correlated with Number of Household, Total Male & Female population, Literacy & Illiteracy Numbers among M & F, Number of SC in Males & Females, Working population, etc. These variables explain the most variance in the data i.e. 56%
+
+* The Second Principal component is correlated with Marginal Cultivator Male/Female population and Marginal Agriculture (Male & Female) population etc. The Second PC explains about 14% of variation in the data.
+
+* The Third Principal Component explains about 7% variation in the data. It positively correlates with Marginal Agriculture 0-3 Female, and 3-6 M&F Population.
+
+* The Fourth Principal Component correlated positively with Marginal Households Male, Marginal Other (0- 3,3-6) Workers Male population. It explains about 6% of variation in the data.
+
+* The Fifth Principal Component explains about 4% variation in data. It is positively correlated with Scheduled Tribes Population Male& Female, Non-working Male& Female population.
+
+* The Sixth Principal Component explains about 3% variation in data. It is positively correlated with Female Marginal Other workers (0-3,3-6), Main & Marginal Households Female population.
+
+Overall the first 6 PCs explain 90% variation in the data. Each PCs correlates with a different set of variables explaining how different aspects of population contribute to the variation in data.
+
