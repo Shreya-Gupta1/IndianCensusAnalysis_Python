@@ -26,10 +26,10 @@ The various steps involved in performing the indepth explanatory analysis includ
     * Except for state and area name all the columns are of integer datatype.
 
 * Next, with the help of seaborn library and other data visualization tools, we find answers to various questions like-
-  * 1. How many districts does each state have?
-  * 2. What is the Total population of India as well as male and female population distribution ?
+    1. How many districts does each state have?
+    2. What is the Total population of India as well as male and female population distribution ?
     3. Analysis Of Literacy based on gender
     4. What is the distribution of non-working population as per gender and state?
     and many more
 
-Further details and results drawn from this part of the analysis can be viewed [here](Shreya-Gupta1/PCA_Python/EDA_IndianCensus.ipynb)
+Further details and results drawn from this part of the analysis can be viewed [here](/EDA_IndianCensus.ipynb)
