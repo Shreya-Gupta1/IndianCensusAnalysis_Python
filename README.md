@@ -6,10 +6,10 @@ We have access to the Indian Census data for the year 2011 and the dataset is ri
 By exploring this dataset, we aim to unravel essential demographic insights, highlighting the status of females in various roles within their households and communities. This data aids in policymaking, social development, and ensuring equitable opportunities for all.
 
 # Methodology Used
-The <b>first part </b> of this project includes the process of performing Detailed Explanatory Analysis (EDA) to draw meaningful conclusions with the help data visualisation techniques. 
+The <b>first part </b> of this project includes the process of performing <b> Detailed Explanatory Analysis (EDA)</b> to draw meaningful conclusions with the help data visualisation techniques. 
 The code for this part can be found in the file named [EDA_IndianCensus.ipynb](/EDA_IndianCensus.ipynb)
 
-In the second part, Principal Component Analysis (PCA) is done on the given data by finding the components that show the most variance. This part is coded in the file [PCA_IndianCensus.ipynb] (/PCA_Indian Census_Shreya.ipynb)
+In the <b> second part, Principal Component Analysis (PCA)</b> is done on the given data by finding the components that show the most variance. This part is coded in the file [PCA_IndianCensus.ipynb] (PCA_Python/PCA_Indian Census_Shreya.ipynb)
 
 # Exploratory Data Analysis (EDA)
 
